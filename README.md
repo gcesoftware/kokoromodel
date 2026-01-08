@@ -7,7 +7,7 @@ This repository serves as a remote asset provider for the **[您的 App 名称]*
 | Asset Name | Version | Description |
 | :--- | :--- | :--- |
 | `kokoro-v1.1-zh.pth` | 1.1 | Multilingual (CN/EN) model weights for Kokoro TTS. |
-| `Voices/` | 1.0 | Voice profile characteristics (.pt files). |
+| `Voices/` | 1.1 | Voice profile characteristics (.pt files). |
 
 ## ⚖️ License & Attribution
 
